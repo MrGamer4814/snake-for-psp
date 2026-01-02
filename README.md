@@ -5,6 +5,8 @@ A classic **Snake game** for **Sony PSP**.
 This repository contains **only the compiled game file**.  
 ⚠️ **Source code is NOT included**.
 
+Last Version: 1.1
+
 ---
 
 ## 🎮 About the Game
